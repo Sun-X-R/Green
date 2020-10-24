@@ -1,0 +1,12 @@
+ID	Name	Age	Rank	Score
+21	Alice	10	65	7
+25	Tom	9	100	1
+38	Jack	11	92	2
+39	Bob	12	89	3
+45	Clark	13	100	1
+57	Mike	10	85	4
+64	Lisa	8	72	6
+65	Prince	11	100	1
+77	Lily 	12	64	8
+82	Kate	10	78	5
+92	Rose	12	89	3
